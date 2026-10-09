@@ -15,7 +15,13 @@ Pre-launch. No certifications.
 | [`@zarel-ai/cli`](https://www.npmjs.com/package/@zarel-ai/cli) | The `zarel` CLI, including `zarel verify`. | MIT |
 | [`@zarel-ai/sdk`](https://www.npmjs.com/package/@zarel-ai/sdk) | TypeScript SDK for the Zarel API. | MIT |
 
-Their source repositories will be published in this organization.
+Their source is public in this organization:
+
+- [`zarel-audit-verifier`](https://github.com/Zarel-AI/zarel-audit-verifier): `audit-chain` and `audit-tsa`.
+- [`zarel-cli`](https://github.com/Zarel-AI/zarel-cli): `cli`.
+- [`zarel-sdk-typescript`](https://github.com/Zarel-AI/zarel-sdk-typescript): `sdk`.
+
+The runtime itself is closed source.
 
 ## Reading
 
